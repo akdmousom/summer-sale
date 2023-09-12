@@ -1,0 +1,20 @@
+:root {
+    --primary-color: #E527B2;
+    --font-color: #111111;
+    --secondary-color: #11111180;
+}
+
+body {
+    background: #F8F8F8;
+    font-family: 'Work Sans', sans-serif;
+}
+
+
+input[type=text] {
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border: 1px solid rgba(17, 17, 17, 0.15);
+    background: #FFF;
+
+    width: 300px;
+}
