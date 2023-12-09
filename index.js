@@ -36,7 +36,7 @@ function productItem(event) {
     }
 }
 
-
+// this pice of code for coupon-input
 document.getElementById('coupon-input').addEventListener('keyup', function (event) {
 
     const text = event.target.value;
